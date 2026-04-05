@@ -10,6 +10,10 @@
 
 # Experiment 3:Remote Repository and Branch Management
 
-# This change is made in feature1 branch
+# This change is made in feature1 branch.
+
+# EXPERIMENT 4:Resolving Merge Conflicts
 
 # This line is added in main branch.
+
+# This line is added in conflict-branch.
